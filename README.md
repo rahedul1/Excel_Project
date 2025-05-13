@@ -20,3 +20,13 @@ Based on your analysis, create a dashboard and answer key business questions to 
 12.	Revenue Generating Day: Find out which two days of the week are the busiest day.
 13.	Monthly Revenue Generating by Occasion: Show the monthly revenue by occasion.
 
+What I did:
+Extract Data ( Power Query Editor)
+Merge Query
+Custom column
+Data model
+Correlation Coefficient function
+Pivot table
+o	Chart
+o	Slicer
+o	Timeline
