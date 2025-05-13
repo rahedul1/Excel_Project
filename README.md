@@ -21,12 +21,12 @@ Based on your analysis, create a dashboard and answer key business questions to 
 13.	Monthly Revenue Generating by Occasion: Show the monthly revenue by occasion.
 
 What I did:
-Extract Data ( Power Query Editor)
-Merge Query
-Custom column
-Data model
-Correlation Coefficient function
-Pivot table
-o	Chart
-o	Slicer
-o	Timeline
+1. Extract Data ( Power Query Editor)
+2. Merge Query
+3. Custom column
+4. Data model
+5. Correlation Coefficient function
+6. Pivot table
+7	Chart
+8	Slicer
+9	Timeline
