@@ -27,6 +27,6 @@ What I did:
 4. Data model
 5. Correlation Coefficient function
 6. Pivot table
-7	Chart
-8	Slicer
-9	Timeline
+7. Chart
+8. Slicer
+9. Timeline
